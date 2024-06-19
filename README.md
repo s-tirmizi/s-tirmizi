@@ -27,3 +27,4 @@ Let's Connect!
 
     📫 Email: stirmizi@utexas.edu
     💼 LinkedIn: [link here](https://www.linkedin.com/in/talha-tirmizi/)
+[This is an external link to genome.gov](https://www.genome.gov/)
