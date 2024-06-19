@@ -24,7 +24,8 @@ Skills and Tools
     Python, C++, C, Dataiku, Petrel, CMG, Data Analytics, MS Office Specialist, ArcGIS, ECLIPSE, Tableau, HFM, Machine Learning, Deep Learning.
 
 Let's Connect!
-
-> 📫 Email: stirmizi@utexas.edu
-> 💼 LinkedIn: [link here](https://www.linkedin.com/in/talha-tirmizi/)
     
+<div style="padding-left: 10px;">
+  📫 Email: stirmizi@utexas.edu<br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/talha-tirmizi/">Talha Tirmizi</a>
+</div>
