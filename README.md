@@ -26,4 +26,4 @@ Skills and Tools
 Let's Connect!
 
     📫 Email: stirmizi@utexas.edu
-    💼 LinkedIn: [talhatirmizi](www.linkedin.com/in/talha-tirmizi/)
+    💼 LinkedIn: [link here](https://www.linkedin.com/in/talha-tirmizi/)
