@@ -1,4 +1,4 @@
-Hey there! 👋 Welcome to My GitHub Profile
+Hi
 
 
 I am currently pursuing my PhD at University of Texas at Austin. I'm passionate about exploring innovative solutions in energy engineering and contributing to the advancement of sustainable energy technologies.
