@@ -26,7 +26,7 @@ Skills and Tools
 Let's Connect!
 
 ## 🔥 My GitHub Language Usage
-![Language Pie Chart](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/language_piechart.png)
+![Language Pie Chart](https://raw.githubusercontent.com/s-tirmizi/language-usage-chart/main/language_piechart.png)
 
 
     
