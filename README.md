@@ -25,7 +25,9 @@ Skills and Tools
 
 Let's Connect!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-tirmizi&layout=pie&theme=dark)
+## 🔥 My GitHub Language Usage
+![Language Pie Chart](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/language_piechart.png)
+
 
     
 <div style="padding-left: 10px;">
