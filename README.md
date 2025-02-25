@@ -21,9 +21,12 @@ Academic Research
 
 Skills and Tools
 
-    Python, C++, C, Dataiku, Petrel, CMG, Data Analytics, MS Office Specialist, ArcGIS, ECLIPSE, Tableau, HFM, Machine Learning, Deep Learning.
+    Python, C++, C, Julia, Dataiku, Petrel, CMG, Data Analytics, MS Office Specialist, ArcGIS, ECLIPSE, Tableau, HFM, Machine Learning, Deep Learning.
 
 Let's Connect!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-tirmizi&layout=pie&theme=dark)
+
     
 <div style="padding-left: 10px;">
   📫 Email: stirmizi@utexas.edu<br>
