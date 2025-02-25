@@ -23,50 +23,6 @@ Skills and Tools
 
     Python, C++, C, Julia, Dataiku, Petrel, CMG, Data Analytics, MS Office Specialist, ArcGIS, ECLIPSE, Tableau, HFM, Machine Learning, Deep Learning.
 
-const username = "s-tirmizi"; // Replace with your GitHub username
-
-async function fetchLanguages() {
-    const response = await fetch(`https://api.github.com/users/${username}/repos`);
-    const repos = await response.json();
-    let languageCount = {};
-
-    for (const repo of repos) {
-        if (repo.language) {
-            languageCount[repo.language] = (languageCount[repo.language] || 0) + 1;
-        }
-    }
-
-    return languageCount;
-}
-
-async function renderChart() {
-    const languageData = await fetchLanguages();
-    const ctx = document.getElementById("languageChart").getContext("2d");
-    new Chart(ctx, {
-        type: "bar",
-        data: {
-            labels: Object.keys(languageData),
-            datasets: [{
-                label: "Repositories per Language",
-                data: Object.values(languageData),
-                backgroundColor: "rgba(75, 192, 192, 0.5)",
-                borderColor: "rgba(75, 192, 192, 1)",
-                borderWidth: 1
-            }]
-        },
-        options: {
-            responsive: true,
-            scales: {
-                y: {
-                    beginAtZero: true
-                }
-            }
-        }
-    });
-}
-
-document.addEventListener("DOMContentLoaded", renderChart);
-
 
 Let's Connect!
     
