@@ -1,32 +1,23 @@
 Hi
 
 
-I am currently pursuing my PhD at University of Texas at Austin. I'm passionate about exploring innovative solutions in energy engineering and contributing to the advancement of sustainable energy technologies.
-
-
-Research Interests
-
-    Energy Engineering
-    Reservoir Characterization
-    Modeling and Simulation
-    Sustainable Energy Solutions
-    Artificial Intelligence
+I am currently pursuing my PhD at University of Texas at Austin. I am passionate about developing innovative solutions that support the global transition to reliable and sustainable energy systems.
 
 Academic Research
 
-    PhD Research: High-performance computing in subsurface hydrogen storage and generation
-    MS Research: Impact of aperture distribution models on permeability estimation of outcrop-based fracture trace maps
-    BE Research: Stress analysis of completion string in ultra-deep and high pressure gas wells
+    PhD Research: Reactive Coupled Processes in Porous Media
+    MS Research:  Impact of aperture distribution models on permeability estimation of outcrop-based fracture trace maps
+    BE Research:  Stress analysis of completion string in ultra-deep and high pressure gas wells
     
 
 Skills and Tools
 
-    Python, C++, C, Julia, Dataiku, Petrel, CMG, Data Analytics, MS Office Specialist, ArcGIS, ECLIPSE, Tableau, HFM, Machine Learning, Deep Learning.
+    Python, C++, C, Julia, Dataiku, Petrel, CMG, Dataiku, MS Office Specialist, ArcGIS, INTERSECT, ECLIPSE, Tableau, HFM, Machine Learning.
 
 
 Let's Connect!
     
 <div style="padding-left: 10px;">
-  📫 Email: stirmizi@utexas.edu<br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/talha-tirmizi/">Talha Tirmizi</a>
+   Email: stirmizi@utexas.edu<br>
+   LinkedIn: <a href="https://www.linkedin.com/in/talha-tirmizi/">Talha Tirmizi</a>
 </div>
